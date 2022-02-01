@@ -1,2 +1,2 @@
 # 3.Implementing-GridSearchCV-and-RandomSearchCV-from-scratch-without-using-SKLearn
-Implementing GridSearchCV and RandomSearchCV from scratch without using SKLearn using in K-Nearest Neighbor to hypertune model
+Implementing GridSearchCV and RandomSearchCV from scratch without using SKLearn and Hypertuning and finding the best parameters in K-Nearest Neighbor.
